@@ -1,6 +1,6 @@
 {
   "name": "deepar",
-  "version": "5.5.1",
+  "version": "5.5.2",
   "description": "The official DeepAR Web SDK",
   "main": "js/deepar.esm.js",
   "jsdelivr": "js/deepar.js",
